@@ -1,0 +1,50 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Certification" verbose="1">
+
+    <test name="challenge1">
+        <classes>
+            <class name="challenge1.challenge1"/>
+        </classes>
+    </test>
+
+
+    <test name="challenge2">
+        <classes>
+            <class name="challenge2.challenge2"/>
+        </classes>
+    </test>
+
+    <test name="challenge3">
+        <classes>
+            <class name="challenge3.challenge3"/>
+        </classes>
+    </test>
+
+    <test name="challenge4">
+        <classes>
+            <class name="challenge4.challenge4"/>
+        </classes>
+    </test>
+
+    <test name="challenge5">
+        <classes>
+            <class name="challenge5.challenge5"/>
+        </classes>
+    </test>
+
+    <test name="challenge6">
+        <classes>
+            <class name="challenge6.challenge6"/>
+        </classes>
+    </test>
+
+    <test name="challenge7">
+        <classes>
+            <class name="challenge7.challenge7"/>
+        </classes>
+    </test>`
+
+</suite>
+
+
